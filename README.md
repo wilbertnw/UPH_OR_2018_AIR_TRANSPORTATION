@@ -7,3 +7,7 @@ library yang kami gunakan adalah :
 - jsonlite
 - shinyjs
 - sqldf
+
+Untuk interface :
+- Arahkan mouse ke icon pesawat untuk melihat detail pesawat
+- Klik icon pesawat untuk melihat model pesawat

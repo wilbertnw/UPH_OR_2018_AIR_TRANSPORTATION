@@ -1,3 +1,5 @@
+
+
 # UPH_OR_2018_AIR_TRANSPORTATION
 
 # AIRPLANE LOCATOR (AIR TRANSPORTATION)
@@ -27,3 +29,6 @@ screenshot :
 
 ![Aplikasi Airplane Locator](https://github.com/wilbertnw/UPH_OR_2018_AIR_TRANSPORTATION/blob/master/airplane.jpg)
 
+
+Disclaimer :
+aplikasi yang kami buat belum dapat memunculkan data secara livestream.

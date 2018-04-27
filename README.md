@@ -18,6 +18,11 @@ The sqldf() function is typically passed a single argument which is an SQL selec
 Untuk interface :
 - Arahkan mouse ke icon pesawat untuk melihat detail pesawat
 - Klik icon pesawat untuk melihat model pesawat
+- Drag map untuk memindahkan posisi layar
+- Tekan tombol + untuk zoom in
+- Tekan tombol - untuk zoom out
 
 screenshot :
+
+![caption](link foto)
 

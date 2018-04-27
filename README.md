@@ -24,5 +24,5 @@ Untuk interface :
 
 screenshot :
 
-![caption](link foto)
+![Aplikasi Airplane Locator](https://github.com/wilbertnw/UPH_OR_2018_AIR_TRANSPORTATION/blob/master/messageImage_1524792296607.jpg)
 
